@@ -1,0 +1,28 @@
+
+div{
+
+color:black;
+background-color: pink;
+font-size: smaller;
+
+}
+#idN {
+    color: black;
+    background-color: aliceblue;
+}
+.className{
+
+    color:black;
+    background-color: aliceblue;
+}
+div > p.xyz {
+   color: aliceblue;
+}
+p.xyz{
+    color:black;
+    background-color: beige;
+
+}
+.a{
+    border-style: dashed;
+}
